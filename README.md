@@ -14,3 +14,6 @@ TileMapColliderなどの当たり判定用の利用に便利です。
 Tile分割数：8個 × 8個
 
 1タイルあたりのピクセル数：64px
+
+<br><br>
+![SimpleTileMap](https://github.com/user-attachments/assets/ebd33ed8-923d-43ae-a39c-c0c6ebc3b913)
