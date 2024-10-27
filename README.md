@@ -1,0 +1,2 @@
+# SimpleShape_TileMap
+2Dゲーム用のシンプルな形状の図形を集めたTileMap画像です。
